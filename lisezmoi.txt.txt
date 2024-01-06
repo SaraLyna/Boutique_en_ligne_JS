@@ -1,0 +1,47 @@
+Nom: OUYAHIA
+Prenom: SARA LYNA
+
+Q1:
+les deux id les plus importants en quelque sortes sont #boutique et #panier, donc les fonctions se feront par rapport a ces id.
+
+Q2:
+creation d'une feuille de style boutique.css
+
+Q3:
+j'ai lu le code html et je l'ai compris
+
+Q4:
+on a créé un element figure auquel on a associé un autre element images pour permettre justement d'afficher toutes les images du fichier images dans la boutique.
+
+Q5:
+on a associé un evenement "change" qui verifie les valeurs saisies.
+
+Q6:
+on a travaillé sur la gestion des valeurs introduites manuellement;et sur l'opacité de celles-ci.
+
+Q7:
+on a créé un bouton pour gérer l'evenement click qui permettra l'ajout d'un article au panier quand celui-ci est actif.
+
+Q8:
+documentation dela fonction orderProduct + initialiser la quantité du produit a zero lorsque celui-ci est ajouté au panier.
+et on aussi géré l'opacité du chariot.
+
+Q9:
+coder la fonction addProductToCart
+la fonction marche bien pour ce qui est d'ajouter un produit au panier,
+mais pour juste modifier la quantité quand le produit y est déja c'etait assez compliqué a realiser,
+j'avais commencé par creer une var find qui avait pour but de chercher
+si le produit etait deja present dans le panier ou pas, s'il y etait fallait juste modifier la quantité,
+sinon l'ajouter completement, et pour ca fallait tout mettre a jouer
+pour gerer l'affichage et tout le reste.
+
+Q10: 
+coder la fonction filterDisplaidProducts
+j'ai essayé d'utiliser la fonction indexOf() mais ca ne marche pas pour moi,
+j'ai quand meme reussi a la faire avec la fonction includes(), qui pour ma part marche super bien,
+enfaite includes() verifie si la sous chaine de caractere tapée sur le clavier fait bien partie de la chaine principale.
+
+Q11: Complements:
+couleur d'arriere plan de la boutique (fichier boutique.css)
+
+
